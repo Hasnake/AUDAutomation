@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c66fda-55ee-4fde-b6ff-03236bb9580c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FirefoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chrometest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chrometest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,7 +41,19 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/chrometest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirefoxTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FirefoxTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Webdriver/HelloWorld.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FirefoxTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/chrometest.java" />
       </list>
     </option>
@@ -196,9 +210,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FirefoxTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="FirefoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirefoxTest" />
+      <module name="MavenProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Webdriver.HelloWorld" />
@@ -285,9 +304,11 @@
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Maven.MavenProject [install]" />
       <item itemvalue="Application.chrometest" />
+      <item itemvalue="Application.FirefoxTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirefoxTest" />
         <item itemvalue="Application.chrometest" />
         <item itemvalue="Maven.MavenProject [install]" />
         <item itemvalue="Application.HelloWorld" />
@@ -318,13 +339,13 @@
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.2954823" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3298611" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3298611" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -387,10 +408,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FirefoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/chrometest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
