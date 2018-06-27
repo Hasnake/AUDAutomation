@@ -1,4 +1,4 @@
-//import org.junit.Test;
+package BrowsersLaunch;//import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
 
